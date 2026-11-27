@@ -49,7 +49,7 @@ These are the cheatsheets I made over the past years. I have learned so much fro
 | Unit Code | Unit Name | Study Materials | Status |
 |-----------|-----------|-----------------|--------|
 | **SOFT2201** | Software Construction and Design 1 | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/soft/soft2201/cheatsheet.pdf) | 📄 Available |
-| **SOFT2412** | Agile Software Development Practices | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/soft/soft2412/cheatsheet.pdf) | 📄 Available |
+| **SOFT2412** | Agile Software Development Practices | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/soft/soft2412/cheatsheet.pdf), <br> [A4 cheatsheet (Zara's version)](https://github.com/fanwy16/USYD-Learning-Notes/blob/main/materials/soft/soft2412/SOFT2412_final_cheatsheet.pdf) | 📄 Available |
 
 ## 🎨 Design Files
 
@@ -67,7 +67,7 @@ Original Figma/.docx files used to create the cheatsheets are available for edit
 
 - **Wenyu (Wendy) Fan** ([LinkedIn](https://www.linkedin.com/in/wenyufan/)): Original creator of COMP2123, COMP3027, COMP3308 v1, COMP2022, COMP4446/5046, SOFT2201, and SOFT2412 materials; co-authored COMP2017 with Zara
 - **Yue (Rosy) Yu** ([LinkedIn](https://www.linkedin.com/in/yue-yu-904788319/)): Contributed COMP2823 cheatsheet (based on COMP2123)，COMP3308 variant cheatsheet (based on COMP3308 original cheatsheet)
-- **Jiajie (Zara) Cui** ([LinkedIn](https://www.linkedin.com/in/jiajie-cui-327131354/)): Contributed INFO2222, INFO1112, INFO1113 cheatsheets; co-authored COMP2017 with Wendy
+- **Jiajie (Zara) Cui** ([LinkedIn](https://www.linkedin.com/in/jiajie-cui-327131354/)): Contributed INFO2222, INFO1112, INFO1113, COMP2022, and SOFT2412 cheatsheets; co-authored COMP2017 with Wendy
 
 ## 📝 Notes
 
