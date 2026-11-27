@@ -57,11 +57,9 @@ Original Figma/.docx files used to create the cheatsheets are available for edit
 
 | Unit | Design File |
 |------|-------------|
-| **COMP2017** | [Systems Programming cheatsheet](https://www.figma.com/design/jC62usbIPsxs2AcxpED9gK/?node-id=70-2) |
-| **COMP4446 / COMP5046** | [NLP cheatsheet](https://www.figma.com/design/jC62usbIPsxs2AcxpED9gK/?node-id=66-2) |
 | **COMP2123** | [DSA cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2123/sources/cheatsheet.docx) |
 | **COMP2823 (Rosy's version)** | [DSA (Adv) cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2823/sources/cheatsheet_rosy.docx) |
-| **COMP2022, COMP3027, COMP3308, SOFT2201, SOFT2412** | [Consolidated Design Files](https://www.figma.com/community/file/1579441159839183538) |
+| **COMP2022, COMP3027, COMP3308, SOFT2201, SOFT2412, COMP2017, COMP4446 / COMP5046** | [Consolidated Design Files](https://www.figma.com/community/file/1579441159839183538) |
 
 **📚 Tutorial:** Want to create your own cheatsheets? Check out this [FigmaToCheatsheet Tutorial](https://www.figma.com/community/file/1579636228052110335) to learn how to use Figma to make clear, flexible, and well-organized cheatsheets!
 
