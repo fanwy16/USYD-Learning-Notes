@@ -65,9 +65,9 @@ Original Figma/.docx files used to create the cheatsheets are available for edit
 
 ## 🙏 Credits & Contributors
 
-- **Wenyu (Wendy) Fan** ([LinkedIn](https://www.linkedin.com/in/wenyufan/)): Original creator of COMP2123, COMP3027, COMP3308 v1, COMP2022, COMP4446/5046, SOFT2201, and SOFT2412 materials; co-authored COMP2017 with Jiajie (Zara) Cui
+- **Wenyu (Wendy) Fan** ([LinkedIn](https://www.linkedin.com/in/wenyufan/)): Original creator of COMP2123, COMP3027, COMP3308 v1, COMP2022, COMP4446/5046, SOFT2201, and SOFT2412 materials; co-authored COMP2017 with Zara
 - **Yue (Rosy) Yu** ([LinkedIn](https://www.linkedin.com/in/yue-yu-904788319/)): Contributed COMP2823 cheatsheet (based on COMP2123)，COMP3308 variant cheatsheet (based on COMP3308 original cheatsheet)
-- **Jiajie (Zara) Cui** ([LinkedIn](https://www.linkedin.com/in/jiajie-cui-327131354/)): Contributed INFO2222, INFO1112, INFO1113 cheatsheets; co-authored COMP2017 with Wenyu (Wendy) Fan
+- **Jiajie (Zara) Cui** ([LinkedIn](https://www.linkedin.com/in/jiajie-cui-327131354/)): Contributed INFO2222, INFO1112, INFO1113 cheatsheets; co-authored COMP2017 with Wendy
 
 ## 📝 Notes
 
